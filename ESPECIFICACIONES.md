@@ -5,7 +5,7 @@ Sistema Gestor de Becas Internas (SIGEBI).
 
 Objetivo General:
 Gestionar las Becas institucionales otorgadas por la Universidad Tecnológica Emiliano Zapata mediante el desarrollo de una aplicación web que permita a los encargados de becas gestionar el proceso de las mismas de acuerdo a los parámetros establecidos en la convocatoria.
-Dicha aplicación deberá estar alojada en los Servicios de Amazon Cloud en una máquina virtual EC2, mnisma que deeberá estar alojada en el Servidor Tomcat. La conexión a base de datos deberá ser mediante MySQL
+Dicha aplicación deberá ser desarrollada por parte Front End con: HTML5, CSS, framework Bootstrap y JavaScript. Por el lado del Back End con el lenguaje de programación Java EE, utilizando SQL como lenguaje de base de datos y utilizando el patrón de arquitectura MVC. Estará alojada en los Servicios de Amazon Cloud en una máquina virtual EC2, mnisma que deeberá estar alojada en el Servidor Tomcat. La conexión a base de datos deberá ser mediante MySQL
 
 Objetivos Específicos:
 ALUMNO
